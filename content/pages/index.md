@@ -54,6 +54,21 @@ sections:
     testimonials: []
     type: testimonials_section
   - section_id: lorem-ipsum
+    background_image_opacity: 0
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: hero_section
+  - section_id: lorem-ipsum
     questions: []
     type: faq_section
   - type: promotion_section
